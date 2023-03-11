@@ -25,5 +25,3 @@ fi
     # Log that there were no changes to commit
     echo "$(date +'%Y-%m-%d %H:%M:%S') No changes to commit" >> $LOG_FILE
 fi
-
-echo "\n"
